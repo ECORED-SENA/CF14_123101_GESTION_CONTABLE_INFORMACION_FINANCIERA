@@ -2,10 +2,39 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Plataforma Dirección de Impuestos y Aduanas Nacionales DIAN, liquidación de formularios
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.1 Concepto
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.2 Servicios en línea
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.3 Instrucciones
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.4 Aplicativos e impuestos
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.5 Liquidación impuestos nacionales
 
 </template>
 
