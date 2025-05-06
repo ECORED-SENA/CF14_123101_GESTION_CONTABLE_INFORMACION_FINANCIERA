@@ -7,14 +7,13 @@
         span 3
       h1 Plataforma Secretaría de Hacienda
     
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.ajuste___2(data-aos="fade-up")
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.ajuste___2.mb-5(data-aos="fade-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La Secretaría de Hacienda tiene la misión de gestionar los recursos y distribuirlos entre los sectores de la Administración Distrital, por lo tanto, para esta entidad y por su carácter es de suma importancia el uso de plataforma digital, la cual, le posibilita propiciar espacios de organización, agendamiento de citas y a su vez el cumplimiento de gestiones y procesos para los ciudadanos.
 
-    Separador
     <!-- BLOQUE 1 -->
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Concepto
@@ -182,7 +181,7 @@
                 li.mb-4 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | Una cuarta parte con la liquidación privada, calculando el impuesto de Industria y Comercio correspondiente; adicionalmente, si la empresa maneja avisos y tableros se calcula también este impuesto tomando el de Industria y Comercio, multiplicando por el 15% y aproximando el valor al mil más cercano. Además, se adicionan unidades comerciales, si es una entidad del sector financiero y sobretasa bomberil y de seguridad, según la aplicación en cada municipio y la normatividad de cada uno. Posteriormente se le restan los valores de exención o exoneración, las retenciones de Ica que le practicaron o se auto practicó, según la entidad; también se resta el anticipo de liquidación del año anterior, si aplica, y se suma el anticipo del año siguiente, si aplica.
+                  | Una cuarta parte con la liquidación privada, calculando el impuesto de Industria y Comercio correspondiente; adicionalmente, si la empresa maneja avisos y tableros se calcula también este impuesto tomando el de Industria y Comercio, multiplicando por el 15 % y aproximando el valor al mil más cercano. Además, se adicionan unidades comerciales, si es una entidad del sector financiero y sobretasa bomberil y de seguridad, según la aplicación en cada municipio y la normatividad de cada uno. Posteriormente se le restan los valores de exención o exoneración, las retenciones de Ica que le practicaron o se auto practicó, según la entidad; también se resta el anticipo de liquidación del año anterior, si aplica, y se suma el anticipo del año siguiente, si aplica.
                   br
                   br
                   | Además, se suman sanciones si el contribuyente incurrió en alguna falta que dé lugar a la sanción, teniendo presente que la sanción mínima en Bogotá corresponde a 7 UVT.
@@ -295,7 +294,7 @@
 
     p.mb-4.espacios__moviles La liquidación de impuestos territoriales es una obligación que tienen las compañías si realizan actividades que le generen ingresos en algún municipio, según lo indica el hecho generador de dichos impuestos. En Colombia, las declaraciones principales de carácter territorial corresponden a Declaración de Industria, Comercio, Avisos y tableros, y Declaración de Retención de Industria, Comercio, Avisos y tableros.
 
-    TabsC.color-acento-contenido(data-aos="fade-up")
+    TabsC.color-acento-contenido(data-aos="fade-right")
 
       .py-3.py-md-4.ajuste-text-bloque4(titulo="Declaración de Industria y Comercio, Avisos y Tableros")
         .row.justify-content-center.align-items-center

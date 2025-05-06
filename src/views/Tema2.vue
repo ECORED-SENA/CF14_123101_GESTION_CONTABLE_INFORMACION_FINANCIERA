@@ -7,14 +7,13 @@
         span 2
       h1 Plataforma Dirección de Impuestos y Aduanas Nacionales DIAN, liquidación de formularios
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-up")
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) tiene como propósito coadyuvar a garantizar la seguridad fiscal del Estado colombiano, haciendo uso de sus facultades para proteger el orden público económico nacional, lo anterior, a través de la administración y control de las obligaciones tributarias bajo el cumplimiento que estos lo indican; para este proceso se hace uso de la plataforma digital dispuesta para ello.
 
-    Separador
     <!-- BLOQUE 1 -->
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Concepto
@@ -217,7 +216,7 @@
 
         p.mb-5 El formulario 310 para Declaración Impuesto Nacional al Consumo está dividido en tres (3) partes principales. En esta presentación habrá un énfasis en la primera parte, que corresponde a información del declarante, donde se encuentran los siguientes numerales:
 
-        .video(data-aos="fade-up")
+        .video(data-aos="fade-right")
           <iframe width="560" height="315" src="https://www.youtube.com/embed/NLDzyouNUWE" title="Formulario 310 Declaración de impuesto nacional al consumo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </template>

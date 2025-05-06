@@ -282,7 +282,7 @@
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src='@/assets/curso/tema4/img8.svg', alt='' style="max-width: 500px").m-auto
     
-    .row.align-items-center.estilo_caja_18.espacios__moviles(data-aos="fade-up")
+    .row.align-items-center.estilo_caja_18.espacios__moviles(data-aos="fade-right")
       .col-xl
         p.mb-4 Teniendo en cuenta que la Resolución 000027 del 25 de marzo del 2020 indica las modificaciones del cronograma establecido en la Resolución 000070 del 28 de octubre de 2019, en su artículo 45, generando un nuevo cronograma en la presentación de la información, dividiendo a los responsables en dos (2) grupos, Grandes contribuyentes y Personas jurídicas y Naturales (DIAN, 2020).
         p.mb-4 Para entregar esta información, es preferible usar los documentos aportados por la DIAN en su página, conocidos como prevalidadores, facilitando el proceso de diligenciamiento y de entrega de la información. Este es el enlace: 

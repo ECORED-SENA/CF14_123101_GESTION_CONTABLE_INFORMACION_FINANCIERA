@@ -7,9 +7,8 @@
         span 1
       h1 Estatuto Tributario
 
-    p.mb-0 El Estatuto Tributario (ET) hace referencia al conjunto de normas que rige el recaudo de impuestos en Colombia, las cuales se encuentran estipuladas en el Decreto 624 de 1989.
+    p.mb-5 El Estatuto Tributario (ET) hace referencia al conjunto de normas que rige el recaudo de impuestos en Colombia, las cuales se encuentran estipuladas en el Decreto 624 de 1989.
 
-    Separador.espacios__moviles
     <!-- BLOQUE 1 -->
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Normatividad tributaria 
@@ -119,7 +118,7 @@
               .lista-ol--cuadro__vineta
                 span 2
               h4 Sanción por extemporaneidad.  Art. 641 del E.T.
-            p.mb-4 Las personas o entidades obligadas a declarar, que presenten las declaraciones tributarias en forma extemporánea, deberán liquidar y pagar una sanción por cada mes o fracción de mes calendario de retardo, equivalente al cinco por ciento (5%) del total del impuesto a cargo o retención objeto de la declaración tributaria, sin exceder del ciento por ciento (100%) del impuesto o retención, según el caso (Secretaría del Senado, 2020, 15 de octubre).
+            p.mb-4 Las personas o entidades obligadas a declarar, que presenten las declaraciones tributarias en forma extemporánea, deberán liquidar y pagar una sanción por cada mes o fracción de mes calendario de retardo, equivalente al cinco por ciento (5 %) del total del impuesto a cargo o retención objeto de la declaración tributaria, sin exceder del ciento por ciento (100 %) del impuesto o retención, según el caso (Secretaría del Senado, 2020, 15 de octubre).
             li(data-aos="fade-right")
               .lista-ol--cuadro__vineta
                 span 3
@@ -139,7 +138,7 @@
               .lista-ol--cuadro__vineta
                 span 4
               h4 Sanción por corrección aritmética. Art. 646 del E.T.
-            p.mb-4 Cuando la Administración de Impuestos efectúe una liquidación de corrección aritmética sobre la declaración tributaria, y resulte un mayor valor a pagar por concepto de impuestos, anticipos o retenciones a cargo del declarante, o un menor saldo a su favor para compensar o devolver, se aplicará una sanción equivalente al treinta por ciento (30%) del mayor valor a pagar o menor saldo a favor determinado, según el caso, sin perjuicio de los intereses moratorios a que haya lugar (Secretaría del Senado, 2020, 15 de octubre).
+            p.mb-4 Cuando la Administración de Impuestos efectúe una liquidación de corrección aritmética sobre la declaración tributaria, y resulte un mayor valor a pagar por concepto de impuestos, anticipos o retenciones a cargo del declarante, o un menor saldo a su favor para compensar o devolver, se aplicará una sanción equivalente al treinta por ciento (30 %) del mayor valor a pagar o menor saldo a favor determinado, según el caso, sin perjuicio de los intereses moratorios a que haya lugar (Secretaría del Senado, 2020, 15 de octubre).
             li.mb-2(data-aos="fade-left")
               .lista-ol--cuadro__vineta
                 span 5
@@ -163,7 +162,7 @@
               .lista-ol--cuadro__vineta
                 span 8
               h4 Sanciones por libros de contabilidad. Art. 655 del E.T.
-            p.mb-4 Sin perjuicio del rechazo de los costos, deducciones, impuestos descontables, exenciones, descuentos tributarios y demás conceptos que carezcan de soporte en la contabilidad, o que no sean plenamente probados de conformidad con las normas vigentes, la sanción por libros de contabilidad será del medio por ciento (0.5%) del mayor valor entre el patrimonio líquido y los ingresos netos del año anterior al de su imposición, sin exceder de 20.000 UVT (Secretaría del Senado, 2020, 15 de octubre).
+            p.mb-4 Sin perjuicio del rechazo de los costos, deducciones, impuestos descontables, exenciones, descuentos tributarios y demás conceptos que carezcan de soporte en la contabilidad, o que no sean plenamente probados de conformidad con las normas vigentes, la sanción por libros de contabilidad será del medio por ciento (0.5 %) del mayor valor entre el patrimonio líquido y los ingresos netos del año anterior al de su imposición, sin exceder de 20.000 UVT (Secretaría del Senado, 2020, 15 de octubre).
         .col-xl-6
           figure(data-aos="fade-left").d-none.d-xl-block
             img(src='@/assets/curso/tema1/img8.svg', alt='' style="max-width: 600px").m-auto  
@@ -222,7 +221,7 @@
               .lista-ol--cuadro__vineta
                 span 15
               h4 Sanciones tributarias a gerentes y representantes legales. Art. 658-1 del E.T.
-            p.mb-4 Cuando en la contabilidad o en las declaraciones tributarias de los contribuyentes se encuentren irregularidades sancionables, relativas a omisión de ingresos gravados, doble contabilidad e inclusión de costos o deducciones inexistentes y pérdidas improcedentes, que sean ordenados y/o aprobados por los representantes que deben cumplir deberes formales de que trata el artículo 572 de este Estatuto, serán sancionados con una multa equivalente al veinte por ciento (20%) de la sanción impuesta al contribuyente, sin exceder de 4.100 UVT, la cual no podrá ser sufragada por su representada (Secretaría del Senado, 2020, 15 de octubre). 
+            p.mb-4 Cuando en la contabilidad o en las declaraciones tributarias de los contribuyentes se encuentren irregularidades sancionables, relativas a omisión de ingresos gravados, doble contabilidad e inclusión de costos o deducciones inexistentes y pérdidas improcedentes, que sean ordenados y/o aprobados por los representantes que deben cumplir deberes formales de que trata el artículo 572 de este Estatuto, serán sancionados con una multa equivalente al veinte por ciento (20 %) de la sanción impuesta al contribuyente, sin exceder de 4.100 UVT, la cual no podrá ser sufragada por su representada (Secretaría del Senado, 2020, 15 de octubre). 
             li.mb-2(data-aos="fade-left")
               .lista-ol--cuadro__vineta
                 span 16
@@ -235,7 +234,7 @@
             span 17
           h4 Sanción por extemporaneidad (S x E)
       
-      p.mb-5 Teniendo en cuenta que para esta sanción se debe tomar la información por cada mes o fracción de mes de atraso por un 5% y si fue con emplazamiento, la misma sanción se duplica, es decir, 10%.
+      p.mb-5 Teniendo en cuenta que para esta sanción se debe tomar la información por cada mes o fracción de mes de atraso por un 5 % y si fue con emplazamiento, la misma sanción se duplica, es decir, 10 %.
 
       .row.mb-5.align-items-center
         .col-xl-1
@@ -244,13 +243,13 @@
             .col-xl
               h4 Ejemplo:
               p Si se debía presentar la declaración el 14 de junio del 2020 y se presentó el 15 de julio del 2020, se encuentra que el tiempo para presentar la sanción será de 2 meses, el primer mes comprendido entre el 15 de junio al 14 de julio del 2020, como mes completo y el segundo mes el 15 de julio de 2020 como fracción de mes, si el impuesto fue de $1.000.000, se liquidará de la siguiente forma:
-              p.mb-0.estilo_caja_4 <strong>S x E = $ 1.000.000 x 5% x 2 = $ 100.000</strong>
+              p.mb-0.estilo_caja_4 <strong>S x E = $1.000.000 x 5 % x 2 = $100.000</strong>
             .col-xl-auto
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/tema1/img12.svg', alt='' style="max-width: 400px").m-auto
 
       p.mb-3 Pero se debe recordar que la sanción siempre debe estar por encima de la sanción mínima, es decir de 10 UVT, que para el año 2020 sería de $356.000
-      p.mb-5 Si no hay impuesto a cargo, la sanción por cada mes o fracción de mes será igual al medio por ciento (0.5%) de los ingresos brutos percibidos, sin exceder la cifra menor resultante de aplicar el cinco por ciento (5%) a dichos ingresos, o del doble del saldo a favor si lo hubiere, o de la suma de 2.500 UVT cuando no existiere saldo a favor. Si no hay ingresos en el período, la sanción por cada mes o fracción de mes es del uno por ciento (1%) del patrimonio líquido del año inmediatamente anterior, sin superar la cifra menor resultante de aplicar el diez por ciento (10%) al mismo, o del doble del saldo a favor si lo hubiere, o de la suma de 2.500 UVT cuando no existiere saldo a favor.
+      p.mb-5 Si no hay impuesto a cargo, la sanción por cada mes o fracción de mes será igual al medio por ciento (0.5 %) de los ingresos brutos percibidos, sin exceder la cifra menor resultante de aplicar el cinco por ciento (5 %) a dichos ingresos, o del doble del saldo a favor si lo hubiere, o de la suma de 2.500 UVT cuando no existiere saldo a favor. Si no hay ingresos en el período, la sanción por cada mes o fracción de mes es del uno por ciento (1 %) del patrimonio líquido del año inmediatamente anterior, sin superar la cifra menor resultante de aplicar el diez por ciento (10 %) al mismo, o del doble del saldo a favor si lo hubiere, o de la suma de 2.500 UVT cuando no existiere saldo a favor.
 
       ol.lista-ol--cuadro.ajuste__espacio_1
         li.mb-2.al(data-aos="fade-right")
@@ -258,30 +257,26 @@
             span 18
           h4 Sanción por corrección
 
-      p.mb-5 Teniendo en cuenta que esta sanción se aplica sobre los valores que se están corrigiendo en las declaraciones tributarias, no se acumula por periodos, se realiza sobre un único periodo, con un valor del 10%; si hay un emplazamiento, la sanción se duplicará, por lo tanto, la sanción sería del 20%.
+      p.mb-5 Teniendo en cuenta que esta sanción se aplica sobre los valores que se están corrigiendo en las declaraciones tributarias, no se acumula por periodos, se realiza sobre un único periodo, con un valor del 10 %; si hay un emplazamiento, la sanción se duplicará, por lo tanto, la sanción sería del 20 %.
 
-      .row.align-items-center.estilo_caja_5(data-aos="fade-up")
+      .row.align-items-center.estilo_caja_5(data-aos="fade-right")
         .col-xl
           h4 Ejemplo:
           p Si se debía presentar la declaración el 14 de junio del 2020 y se presentó el 15 de julio del 2020, inicialmente se canceló un valor de $1.000.000 y después de realizar la revisión de la declaración, se evidencia que el valor a pagar en realidad era de $5.000.000, se procede a calcular la sanción:
           .row.estilo_caja_6
             .col-xl
               <ul class="fa-ul">
-                <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor inicialmente declarado: $ 1.000.000</li>
-                <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor Final declarado: 	$ 5.000.000</li>
-                <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor de la corrección: 	$ 4.000.000</li>
+                <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor inicialmente declarado: $1.000.000</li>
+                <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor Final declarado: 	$5.000.000</li>
+                <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor de la corrección: 	$4.000.000</li>
               </ul>
         .col-xl-auto
           figure.d-none.d-xl-block
             img(src='@/assets/curso/tema1/img13.svg', alt='' style="max-width: 300px").m-auto
         .col-xl
           h4.mb-4 Liquidación de la sanción
-          p.mb-4.estilo_caja_4 <strong>S x C = $ 4.000.000 x 10% = $ 400.000</strong>
+          p.mb-4.estilo_caja_4 <strong>S x C = $4.000.000 x 10 % = $400.000</strong>
           p.mb-0 Se debe tener presente que, si en la corrección se presenta un menor valor a pagar o un mayor saldo a su favor, no aplica sanción si así lo determina la Dirección de Impuestos y Aduanas Nacionales (Herrera & Hernández, 2016).
-
-
-
-            
  
 </template>
 
