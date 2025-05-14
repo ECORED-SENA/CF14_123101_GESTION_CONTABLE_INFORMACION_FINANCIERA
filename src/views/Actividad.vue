@@ -21,7 +21,7 @@ export default {
         'Declaraciones tributarias en Colombia: normativa, plataformas y procedimientos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo: Identificar los conceptos clave relacionados con la elaboración, presentación y sanciones asociadas a las declaraciones tributarias nacionales y territoriales. ',
+        '<b> Objetivo: identificar los conceptos clave relacionados con la elaboración, presentación y sanciones asociadas a las declaraciones tributarias nacionales y territoriales. ',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -312,22 +312,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: '10% del impuesto.',
+              texto: '10 % del impuesto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '5% del impuesto.',
+              texto: '5 % del impuesto.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: '3% del impuesto.',
+              texto: '3 % del impuesto.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '20% del impuesto.',
+              texto: '20 % del impuesto.',
               esCorrecta: false,
             },
           ],

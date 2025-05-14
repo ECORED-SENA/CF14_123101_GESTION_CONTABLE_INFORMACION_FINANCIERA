@@ -218,7 +218,7 @@ export default {
         'Ministerio de Hacienda y Crédito Público, (2017). Resolución 4056 del 1 de diciembre de 2017.',
       tipo: 'Documento',
       link:
-        'https://xperta.legis.co/visor/temp_legcol_46e7f159-4907-491f-87ef-0a0ffb24ada1',
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=73328',
     },
     {
       tema:
@@ -227,7 +227,7 @@ export default {
         'Secretaría de Hacienda Distrital, (2014), Resolución DDI-094892 del 23 de diciembre de 2014.',
       tipo: 'Documento',
       link:
-        'https://www.shd.gov.co/shd/sites/default/files/normatividad/RESOLUCI%C3%93N%20DDI-094892%20AUTOLIQUIDACI%C3%93N.pdf',
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=60361',
     },
     {
       tema: 'Formulario 350',
@@ -280,7 +280,7 @@ export default {
     {
       termino: 'Unidad de Valor Tributario',
       significado:
-        'la Unidad de Valor Tributario (UVT) es una unidad referencial que representa un valor en pesos y es actualizado anualmente por la DIAN según la inflación del año.',
+        'la Unidad de Valor Tributario (UVT) es una unidad referencial que representa un valor en pesos y es actualizada anualmente por la DIAN según la inflación del año.',
     },
     {
       termino: 'Contribuyente',
@@ -362,7 +362,7 @@ export default {
     {
       referencia:
         'Secretaría Distrital de Hacienda. (2020, 30 de octubre). Oficina virtual. www.shd.gov.co. ',
-      link: 'https://www.shd.gov.co/shd/taxonomy/term/2461',
+      link: 'https://www.haciendabogota.gov.co/',
     },
   ],
   creditos: [

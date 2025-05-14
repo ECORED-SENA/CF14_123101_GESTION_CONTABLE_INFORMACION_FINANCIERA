@@ -47,7 +47,7 @@
           .anexo__texto
             p <strong>Enlace web</strong>. Dirección de Impuestos y Aduanas Nacionales DIAN
         
-        p.mb-4.espacios__moviles Para apropiar el conocimiento de este proceso es necesario la comprensión del siguiente término:
+        p.mb-4.espacios__moviles Para apropiar el conocimiento de este proceso es necesaria la comprensión del siguiente término:
 
         .row.align-items-center.mb-5.estilo_caja_7(data-aos="fade-up")
           .col-xl-auto
@@ -71,8 +71,8 @@
 
               .row.h-100.justify-content-center.align-items-center
                 .col-lg-6.mb-4.col-xs-12
-                  p Estimados aprendices, en esta ventana se puede visualizar el ingreso a la plataforma de la DIAN. Si ya se tiene usuario, se ingresa con los datos de la persona natural o jurídica y seguidamente se digita contraseña creada. 
-                  p.mb-0 Se debe recordar que si se ingresa como persona jurídica, se debe tener el NIT y la identificación del tercero asociado a la entidad, que necesariamente debe ser el representante legal de la misma o quienes tengan la obligación de firmar las declaraciones. Si es una persona natural, se ingresa haciendo clic en “a nombre propio”. Pero si no se tiene creado usuario, se debe crearlo a través de la opción de “Habilitar Cuenta”.
+                  p Estimados aprendices, en esta ventana se puede visualizar el ingreso a la plataforma de la DIAN. Si ya se tiene usuario, se ingresa con los datos de la persona natural o jurídica y seguidamente se digita la contraseña creada. 
+                  p.mb-0 Se debe recordar que, si se ingresa como persona jurídica, se debe tener el NIT y la identificación del tercero asociado a la entidad, que necesariamente debe ser el representante legal de la misma o quienes tengan la obligación de firmar las declaraciones. Si es una persona natural, se ingresa haciendo clic en “a nombre propio”. Pero si no se tiene creado usuario, se debe crear a través de la opción de “Habilitar Cuenta”.
                 .col-lg-6
                   .titulo-sexto.color-acento-contenido.mb-2
                     h5 Figura 2.
@@ -106,7 +106,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/tema2/img11.svg', alt='' style="max-width: 86px").m-auto
               .col
-                p.mb-0 <strong>Registro Único Tributario (RUT): </strong>: en esta opción se pueden actualizar (datos básicos, actividades), consultar el RUT e imprimir copia de este.
+                p.mb-0 <strong>Registro Único Tributario (RUT)</strong>: en esta opción se pueden actualizar (datos básicos, actividades), consultar el RUT e imprimir copia de este.
 
         .row.fondo-slider
           .ajuste-slider(data-aos="fade-up")
@@ -150,7 +150,7 @@
             SlyderA(tipo="b")
               .row.h-100.justify-content-center.align-items-center
                 .col-lg-6.mb-4.col-xs-12
-                  p.mb-0 A través del portal de la DIAN se observará los instructivos establecidos por la entidad, para el diligenciamiento de los formularios que están disponibles para la presentación de los impuestos, tanto tributarios como aduaneros. Se debe tener presente que un instructivo hace referencia a una guía que permite tener el paso a paso para la correcta elaboración o diligenciamiento de trámites que sean requeridos por cada entidad, en el caso de Dirección de Impuestos y Aduanas Nacionales, como ya se mencionó los formularios de impuestos.
+                  p.mb-0 A través del portal de la DIAN se observarán los instructivos establecidos por la entidad, para el diligenciamiento de los formularios que están disponibles para la presentación de los impuestos, tanto tributarios como aduaneros. Se debe tener presente que un instructivo hace referencia a una guía que permite tener el paso a paso para la correcta elaboración o diligenciamiento de trámites que sean requeridos por cada entidad, en el caso de Dirección de Impuestos y Aduanas Nacionales, como ya se mencionó, los formularios de impuestos.
                 .col-lg-6
                   .titulo-sexto.color-acento-contenido.mb-2
                     h5 Figura 6.
@@ -191,20 +191,20 @@
         .row.mb-5
           .col-xl.espacios__moviles
             TabsA.color-acento-botones.mb-4(data-aos="fade-up")
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Retención en la Fuente")
-                h4 Declaración de Retención en la Fuente:
-                p.mb-0 Las personas naturales o jurídicas que sean agentes retenedores de renta están en la obligación de presentar la declaración de retención en la fuente, siempre y cuando hubieran practicado retenciones, según lo establece la norma vigente. Se debe aclarar, que si no se realizaron las retenciones, la entidad no tiene la obligación de presentar declaración en ceros, como se establece en el ART 606 del Estatuto Tributario parágrafo 2. La periodicidad de presentación de dicha declaración es mensual y se debe presentar en el formulario 350, según lo establecido por la Dirección de Impuestos y Aduanas Nacionales.
+              .tarjeta.color-acento-botones--borde.p-4(titulo="Retención en la fuente")
+                h4 Declaración de retención en la fuente:
+                p.mb-0 Las personas naturales o jurídicas que sean agentes retenedores de renta están en la obligación de presentar la declaración de retención en la fuente, siempre y cuando hubieran practicado retenciones, según lo establece la norma vigente. Se debe aclarar, que si no se realizaron las retenciones, la entidad no tiene la obligación de presentar declaración en ceros, como se establece en el ART 606 del Estatuto Tributario, parágrafo 2. La periodicidad de presentación de dicha declaración es mensual y se debe presentar en el formulario 350, según lo establecido por la Dirección de Impuestos y Aduanas Nacionales.
               .tarjeta.color-acento-botones--borde.p-4(titulo="Impuesto sobre las Ventas")
                 h4 Declaración de Impuesto sobre las Ventas - IVA:
-                p.mb-0 Esta declaración debe ser presentada por toda persona jurídica o natural que sea responsables del impuesto a las ventas, incluidos los exportadores, y si no realiza operaciones sometidas al impuesto, no se debe presentar dicha declaración; esto lo establece el ART 601 del estatuto tributario. El periodo gravable del impuesto a las ventas, según el Artículo 600 del E.T, corresponde de forma bimestral, si a 31 de diciembre del año inmediatamente anterior, son iguales o superiores a 92.000 UVT, y es cuatrimestral si es inferior a 92.000 UVT. Es de aclarar, que si la entidad está empezando sus operaciones, el periodo es bimestral; adicional, el formulario dispuesto por la Dirección de Impuestos y Aduanas Nacionales es el Número 300.
+                p.mb-0 Esta declaración debe ser presentada por toda persona jurídica o natural que sea responsable del impuesto a las ventas, incluidos los exportadores, y si no realiza operaciones sometidas al impuesto, no se debe presentar dicha declaración; esto lo establece el ART 601 del estatuto tributario. El periodo gravable del impuesto a las ventas, según el Artículo 600 del E.T, corresponde de forma bimestral, si a 31 de diciembre del año inmediatamente anterior, son iguales o superiores a 92.000 UVT, y es cuatrimestral si es inferior a 92.000 UVT. Es de aclarar, que si la entidad está empezando sus operaciones, el periodo es bimestral; adicionalmente, el formulario dispuesto por la Dirección de Impuestos y Aduanas Nacionales es el Número 300.
               .tarjeta.color-acento-botones--borde.p-4(titulo="Impuesto al Consumo")
                 h4 Declaración de Impuesto Nacional al Consumo:
-                p.m-0 Esta declaración debe ser presentada por toda persona jurídica o natural que sea responsable del impuesto nacional al Consumo, según lo establece el Artículo 512-1 Del estatuto tributario. El periodo gravable del impuesto nacional al consumo, según el Artículo 512-1 del E.T parágrafo 1, corresponde de forma bimestral; para este impuesto no procede un impuesto descontable; adicionalmente, el formulario dispuesto por la Dirección de Impuestos y Aduanas Nacionales es el Número 310.  También se debe tener en cuenta que están excluidos del Impuesto Nacional al Consumo el departamento del Amazonas y el Archipiélago de San Andrés, Providencia y Santa Catalina, con excepción a lo dispuesto en el ART 512-7 del Estatuto Tributario.
+                p.m-0 Esta declaración debe ser presentada por toda persona jurídica o natural que sea responsable del impuesto nacional al consumo, según lo establece el Artículo 512-1 del estatuto tributario. El periodo gravable del impuesto nacional al consumo, según el Artículo 512-1 del E.T., parágrafo 1, corresponde de forma bimestral; para este impuesto no procede un impuesto descontable; adicionalmente, el formulario dispuesto por la Dirección de Impuestos y Aduanas Nacionales es el Número 310.  También se debe tener en cuenta que están excluidos del Impuesto Nacional al Consumo el departamento del Amazonas y el Archipiélago de San Andrés, Providencia y Santa Catalina, con excepción a lo dispuesto en el ART 512-7 del Estatuto Tributario.
               .tarjeta.color-acento-botones--borde.p-4(titulo="Complementarios")
                 h4 Declaración de renta y complementarios o de ingresos y patrimonio para personas jurídicas y asimiladas y personas naturales y asimiladas no residentes y sucesiones ilíquidas de causantes no residentes:
-                p.m-0 Esta declaración debe ser presentada por toda persona jurídica, por todos los ingresos susceptibles de incrementar el patrimonio o persona natural o sucesiones ilíquidas no residentes que cumplan los requisitos estipulados en el ART 592 E.T y 1.6.1.13.2.7 del decreto 1625 de 2016, teniendo en cuenta la base de renta líquida gravable que establece tomar los ingresos netos y a estos restarles los costos realizados, imputables cuando sea el caso, posteriormente se le restan las deducciones (gastos) realizadas , con lo cual se obtiene la renta líquida, la cual es la base para la aplicación de la tarifa del impuesto. El periodo gravable del impuesto de Renta y complementarios es anual y el formulario establecido por la Dirección de Impuestos y Aduanas Nacionales es el Número 110.
+                p.m-0 Esta declaración debe ser presentada por toda persona jurídica, por todos los ingresos susceptibles de incrementar el patrimonio o persona natural o sucesiones ilíquidas no residentes que cumplan los requisitos estipulados en el ART 592 E.T y 1.6.1.13.2.7 del decreto 1625 de 2016, teniendo en cuenta la base de renta líquida gravable que establece tomar los ingresos netos y a estos restarles los costos realizados, imputables cuando sea el caso, posteriormente se le restan las deducciones (gastos) realizadas , con lo cual se obtiene la renta líquida, la cual es la base para la aplicación de la tarifa del impuesto. El periodo gravable del impuesto de renta y complementarios es anual y el formulario establecido por la Dirección de Impuestos y Aduanas Nacionales es el Número 110.
             
-        p.mb-5.espacios__moviles El formulario 350 para Declaración de Retención en la fuente está compuesto por tres (3) partes principales. En esta presentación habrá un enfoque la primera parte, que corresponde a la Información del declarante, donde se encontrarán los siguientes numerales:
+        p.mb-5.espacios__moviles El formulario 350 para declaración de retención en la fuente está compuesto por tres (3) partes principales. En esta presentación habrá un enfoque de la primera parte, que corresponde a la información del declarante, donde se encontrarán los siguientes numerales:
 
         .video.mb-5(data-aos="fade-up")
           <iframe width="560" height="315" src="https://www.youtube.com/embed/Nu0so84PvI8" title="Formulario 350 Retencion en la fuente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

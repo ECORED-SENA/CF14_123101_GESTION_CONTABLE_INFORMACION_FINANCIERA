@@ -20,7 +20,7 @@
 
     .row.mb-5.align-items-center.estilo_caja_9(data-aos="fade-down")
       .col-xl
-        p.mb-3 La plataforma que utiliza la Secretaría de Hacienda de Bogotá (SHD) tiene habilitada en su página web el aplicativo denominado Oficina Virtual, que es la herramienta utilizada para la elaboración y presentación de los impuestos municipales, a través de los sistemas informáticos. Para la comprensión de este proceso es necesario tener presente el siguiente concepto plataforma digital: 
+        p.mb-3 La plataforma que utiliza la Secretaría de Hacienda de Bogotá (SHD) tiene habilitado en su página web el aplicativo denominado Oficina Virtual, que es la herramienta utilizada para la elaboración y presentación de los impuestos municipales, a través de los sistemas informáticos. Para la comprensión de este proceso es necesario tener presente el siguiente concepto: plataforma digital.
         .bloque-texto-b.color-primario.mb-4.p-3.ajuste___cita
           .bloque-texto-b__texto
             i.fas.fa-quote-left
@@ -86,7 +86,7 @@
         .row.align-items-center
           .col-xl-6.ajuste__movil_3
             h4 Medios magnéticos:
-            p.mb-0 En esta opción el contribuyente que por ley tenga la obligación de presentar los informes de exógena distrital, debe cargar dicha información en archivo plano por CSV (Delimitado por comas).
+            p.mb-0 En esta opción, el contribuyente que por ley tenga la obligación de presentar los informes de exógena distrital, debe cargar dicha información en archivo plano por CSV (delimitado por comas).
           .col-lg-6.mb-4.mb-md-0
             figure.d-none.d-xl-block
               img(src='@/assets/curso/tema3/img7.png', alt="" style="max-width: 450px").m-auto
@@ -95,7 +95,7 @@
         .row.align-items-center
           .col-xl-6.ajuste__movil_3
             h4 RIT:
-            p.mb-0 Por este enlace se pueden validar los trámites de RIT, como actualización de datos básicos, inscripción, cambio o eliminación de las actividades correspondiente a los ingresos que obtiene el contribuyente asociado al CIIU.
+            p.mb-0 Por este enlace se pueden validar los trámites de RIT, como actualización de datos básicos, inscripción, cambio o eliminación de las actividades correspondientes a los ingresos que obtiene el contribuyente asociado al CIIU.
           .col-lg-6.mb-4.mb-md-0
             figure.d-none.d-xl-block
               img(src='@/assets/curso/tema3/img8.png', alt="" style="max-width: 450px").m-auto
@@ -121,7 +121,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p <strong>Anexo</strong>. Formulario Único Nacional de Declaración y Pago del Impuesto de Industria y comercio
+            p <strong>Anexo</strong>. Formulario Único Nacional de Declaración y Pago del Impuesto de Industria y Comercio
       .col-xl-auto
         figure.d-none.d-xl-block
           img(src='@/assets/curso/tema3/img10.svg', alt='' style="max-width: 360px").m-auto
@@ -142,7 +142,7 @@
                 li.mb-4 
                   .lista-ol--cuadro__vineta
                     span 1
-                  | Una primera parte con la Información del Contribuyente: nombres y apellidos o Razón social; dirección de identificación, municipio o distrito, teléfono, correo, departamento, número de establecimientos.
+                  | Una primera parte con la información del contribuyente: nombres y apellidos o razón social; dirección de identificación, municipio o distrito, teléfono, correo, departamento, número de establecimientos.
               .row.d-flex.justify-content-center.mb-4(data-aos="fade-up")
                 .col-xl-1
                 .col-xl-10
@@ -155,7 +155,7 @@
                 li.mb-4 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | Una segunda parte, identificando la Base gravable, donde se puede validar total de ingresos operacionales y no operacionales de la entidad, allí se restan los ingresos fuera del municipio y las devoluciones, rebajas, descuentos; también los ingresos por exportaciones, venta de activos fijos, actividades excluidas o no sujetas e ingresos por actividades exentas en el municipio, según acuerdos de cada municipio.
+                  | Una segunda parte, identificando la base gravable, donde se puede validar el total de ingresos operacionales y no operacionales de la entidad, allí se restan los ingresos fuera del municipio y las devoluciones, rebajas, descuentos; también los ingresos por exportaciones, venta de activos fijos, actividades excluidas o no sujetas e ingresos por actividades exentas en el municipio, según acuerdos de cada municipio.
               .row.d-flex.justify-content-center.mb-4(data-aos="fade-up")
                 .col-xl-1
                 .col-xl-10
@@ -168,7 +168,7 @@
                 li.mb-4 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | Una tercera parte con la discriminación de las actividades que realiza el contribuyente, directamente relacionado con el CIIU, la tarifa que corresponda (se debe tener en cuenta que la tarifa cambia según el estatuto tributario de cada municipio y la tarifa se aplica por mil), y el impuesto, resultado de tomar el ingreso gravado y multiplicarlo por la tarifa. Además, la información reportada debe estar diligenciada aproximado al mil más cercano.
+                  | Una tercera parte con la discriminación de las actividades que realiza el contribuyente, directamente relacionado con el CIIU, la tarifa que corresponda (se debe tener en cuenta que la tarifa cambia según el estatuto tributario de cada municipio y la tarifa se aplica por mil), y el impuesto, resultado de tomar el ingreso gravado y multiplicarlo por la tarifa. Además, la información reportada debe estar diligenciada aproximada al mil más cercano.
               .row.d-flex.justify-content-center.mb-4(data-aos="fade-up")
                 .col-xl-1
                 .col-xl-10
@@ -181,7 +181,7 @@
                 li.mb-4 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | Una cuarta parte con la liquidación privada, calculando el impuesto de Industria y Comercio correspondiente; adicionalmente, si la empresa maneja avisos y tableros se calcula también este impuesto tomando el de Industria y Comercio, multiplicando por el 15 % y aproximando el valor al mil más cercano. Además, se adicionan unidades comerciales, si es una entidad del sector financiero y sobretasa bomberil y de seguridad, según la aplicación en cada municipio y la normatividad de cada uno. Posteriormente se le restan los valores de exención o exoneración, las retenciones de Ica que le practicaron o se auto practicó, según la entidad; también se resta el anticipo de liquidación del año anterior, si aplica, y se suma el anticipo del año siguiente, si aplica.
+                  | Una cuarta parte con la liquidación privada, calculando el impuesto de Industria y Comercio correspondiente; adicionalmente, si la empresa maneja avisos y tableros, se calcula también este impuesto tomando el de Industria y Comercio, multiplicando por el 15 % y aproximando el valor al mil más cercano. Además, se adicionan unidades comerciales, si es una entidad del sector financiero y sobretasa bomberil y de seguridad, según la aplicación en cada municipio y la normatividad de cada uno. Posteriormente, se le restan los valores de exención o exoneración, las retenciones de Ica que le practicaron o se autopracticó, según la entidad; también se resta el anticipo de liquidación del año anterior, si aplica, y se suma el anticipo del año siguiente, si aplica.
                   br
                   br
                   | Además, se suman sanciones si el contribuyente incurrió en alguna falta que dé lugar a la sanción, teniendo presente que la sanción mínima en Bogotá corresponde a 7 UVT.
@@ -218,7 +218,7 @@
           .col
             h3 Formulario Retención de ICA en Bogotá:
 
-    p.mb-4.espacios__moviles Se identifica con el código 131, donde se declaran las retenciones que practicó el contribuyente, siempre y cuando sea agente retenedor de Ica.
+    p.mb-4.espacios__moviles Se identifica con el código 131, donde se declaran las retenciones que practicó el contribuyente, siempre y cuando sea agente retenedor de ICA.
 
     .row.mb-4
       .col-lg-1
@@ -227,19 +227,19 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p <strong>Anexo</strong>. Instructivo Declaración y Pago ICA y ReteICA con firma Electrónica a través de la Oficina Virtual
+            p <strong>Anexo</strong>. Instructivo Declaración y Pago ICA y ReteICA con firma electrónica a través de la Oficina Virtual
         .row.align-items-center.estilo_caja_11(data-aos="fade-up")
           .col-xl-auto
             figure.d-none.d-xl-block
               img(src='@/assets/curso/tema3/img12.svg', alt='' style="max-width: 67px").m-auto
           .col-xl
-            p.mb-0 El recibo oficial de pago de retenciones del impuesto de industria y comercio, avisos y trableros está compuesto por:
+            p.mb-0 El recibo oficial de pago de retenciones del impuesto de industria y comercio, avisos y tableros está compuesto por:
         .row.estilo_caja_13
           ol.lista-ol--cuadro
             li.mb-4 
               .lista-ol--cuadro__vineta
                 span 1
-              | En este formulario se identifica la información del contribuyente: nombres y apellidos o Razón social; dirección de identificación, municipio o distrito, teléfono.
+              | En este formulario se identifica la información del contribuyente: nombres y apellidos o razón social; dirección de identificación, municipio o distrito, teléfono.
           .row.d-flex.justify-content-center.mb-4(data-aos="fade-up")
             .col-xl-1
             .col-xl-10
@@ -252,7 +252,7 @@
             li.mb-4 
               .lista-ol--cuadro__vineta
                 span 2
-              | Una segunda parte con la liquidación del impuesto, identificando la base de retención aproximado a miles, otro renglón con el valor del impuesto aproximado a miles, se le resta el valor de impuesto si hay alguna devolución, se suma un valor de sanción en el caso que aplique, teniendo presente que la sanción mínima en Bogotá por la declaración de retención de Ica corresponde a 10 UVT.
+              | Una segunda parte con la liquidación del impuesto, identificando la base de retención aproximada a miles, otro renglón con el valor del impuesto aproximado a miles, se le resta el valor de impuesto si hay alguna devolución, se suma un valor de sanción en el caso que aplique, teniendo presente que la sanción mínima en Bogotá por la declaración de retención de ICA corresponde a 10 UVT.
           .row.d-flex.justify-content-center.mb-4(data-aos="fade-up")
             .col-xl-1
             .col-xl-10
@@ -265,7 +265,7 @@
             li.mb-4 
               .lista-ol--cuadro__vineta
                 span 3
-              | Una tercera parte con la discriminación de las actividades que realiza el contribuyente, directamente reUna última y tercera parte con las firmas de las personas obligadas, siendo este el contribuyente y el contador o revisor fiscal, según la obligación del contribuyente, seguido del número de identificación y tarjeta profesional para Contador o Revisor fiscal.
+              | Una tercera parte con la discriminación de las actividades que realiza el contribuyente, directamente. Una última y tercera parte con las firmas de las personas obligadas, siendo este el contribuyente y el contador o revisor fiscal, según la obligación del contribuyente, seguido del número de identificación y tarjeta profesional para contador o revisor fiscal.
           .row.d-flex.justify-content-center.mb-4(data-aos="fade-up")
             .col-xl-1
             .col-xl-10
@@ -275,7 +275,7 @@
               figure
                 img(src='@/assets/curso/tema3/img20.svg', alt='Parte final del recibo oficial de retenciones del impuesto de industria y comercio que incluye la sección E.' style="max-width: 600px")
           
-        p.mb-4.mt-5 Es de aclarar que la Secretaría de Hacienda Distrital SHD, no acepta declaraciones litográficas y la elaboración, firma y presentación de la declaración de Retención de ICA debe realizarse virtualmente, por medio de la oficina Virtual del aplicativo de la SHD.
+        p.mb-4.mt-5 Es de aclarar que la Secretaría de Hacienda Distrital SHD, no acepta declaraciones litográficas y la elaboración, firma y presentación de la declaración de retención de ICA debe realizarse virtualmente, por medio de la oficina virtual del aplicativo de la SHD.
     
     .row.align-items-center
       .col-lg-2
@@ -292,7 +292,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.4 Liquidación impuestos territoriales
 
-    p.mb-4.espacios__moviles La liquidación de impuestos territoriales es una obligación que tienen las compañías si realizan actividades que le generen ingresos en algún municipio, según lo indica el hecho generador de dichos impuestos. En Colombia, las declaraciones principales de carácter territorial corresponden a Declaración de Industria, Comercio, Avisos y tableros, y Declaración de Retención de Industria, Comercio, Avisos y tableros.
+    p.mb-4.espacios__moviles La liquidación de impuestos territoriales es una obligación que tienen las compañías si realizan actividades que les generen ingresos en algún municipio, según lo indica el hecho generador de dichos impuestos. En Colombia, las declaraciones principales de carácter territorial corresponden a Declaración de Industria, Comercio, Avisos y Tableros, y Declaración de Retención de Industria, Comercio, Avisos y Tableros.
 
     TabsC.color-acento-contenido(data-aos="fade-right")
 
@@ -303,7 +303,7 @@
               img(src='@/assets/curso/tema3/img22.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Declaración de Industria y Comercio, Avisos y Tableros
-            p Las personas naturales o jurídicas del impuesto de industria y comercio que realicen cualquier actividad industrial, comercial o de servicios en la jurisdicción del Distrito Capital de Bogotá, directa o indirectamente, de forma permanente u ocasional, con o sin establecimiento de comercio, que le genere un incremento de ingreso y aumento de su patrimonio. Dicha declaración tiene una periodicidad en Bogotá D.C., dependiendo si el año anterior generó un Impuesto a declarar por un valor igual o superior a 391 UVT; se presenta anual, y si es inferior a 391 UVT es de forma bimestral; adicionalmente, la información debe presentarse aproximado a miles. La sanción mínima para este impuesto es de 7 UVT.
+            p Las personas naturales o jurídicas del impuesto de industria y comercio que realicen cualquier actividad industrial, comercial o de servicios en la jurisdicción del Distrito Capital de Bogotá, directa o indirectamente, de forma permanente u ocasional, con o sin establecimiento de comercio, que le genere un incremento de ingreso y aumento de su patrimonio. Dicha declaración tiene una periodicidad en Bogotá D.C., dependiendo si el año anterior generó un impuesto a declarar por un valor igual o superior a 391 UVT; se presenta anual, y si es inferior a 391 UVT, es de forma bimestral; adicionalmente, la información debe presentarse aproximada a miles. La sanción mínima para este impuesto es de 7 UVT.
             p.mb-4 Con el fin de complementar la información del Impuesto de Industria y Comercio, Avisos y Tableros, se invita a explorar en el siguiente enlace:
             a.anexo.mb-4.ajuste__link(href="https://www.shd.gov.co/shd/industria-y-comercio" target="_blank")
               .anexo__icono
@@ -318,7 +318,7 @@
               img(src='@/assets/curso/tema3/img23.png', alt='').img400.m-auto
           .col-lg-7.order-1.order-lg-2.mb-4
             h4.txt--purpura.mb-4 Declaración de retención de Industria, Comercio, Avisos y Tableros
-            p.mb-0 Esta declaración debe ser presentada por toda persona jurídica o natural que sea agente retenedor del impuesto de Industria y Comercio por las actividades comerciales, industriales y de servicios prestados en el municipio de Bogotá D.C. La periodicidad de la declaración de retención de industria y comercio es de forma bimestral, Adicionalmente, la información debe presentarse aproximado a miles. La sanción mínima para este impuesto es de 10 UVT, el formulario utilizado es el número 131.
+            p.mb-0 Esta declaración debe ser presentada por toda persona jurídica o natural que sea agente retenedor del impuesto de Industria y Comercio por las actividades comerciales, industriales y de servicios prestados en el municipio de Bogotá D.C. La periodicidad de la declaración de retención de industria y comercio es de forma bimestral, Adicionalmente, la información debe presentarse aproximada a miles. La sanción mínima para este impuesto es de 10 UVT, el formulario utilizado es el número 131.
 
 </template>
 

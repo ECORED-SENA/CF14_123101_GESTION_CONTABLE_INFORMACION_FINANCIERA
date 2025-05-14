@@ -60,7 +60,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Mecanismos para evitar la elusión tributaria
     
-    p.mb-5.espacios__moviles La Administración de Impuestos Nacionales de Colombia ha establecido sanciones en caso de que los contribuyentes incurran en evasión fiscal. Estas se encuentran en el Estatuto Tributario, en los Artículos 657, 658-2, 669, 795. 
+    p.mb-5.espacios__moviles La Administración de Impuestos Nacionales de Colombia ha establecido sanciones en caso de que los contribuyentes incurran en evasión fiscal. Estas se encuentran en el Estatuto Tributario, en los artículos 657, 658-2, 669, 795. 
 
     .bg--img_03.espacios__moviles(data-aos="fade-up")
       AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
@@ -70,7 +70,7 @@
             li.mb-4 
               .lista-ol--cuadro__vineta
                 span 1
-              | Por un término de tres (3) días, cuando no se expida factura o documento equivalente, estando obligado a ello, o se expida sin los requisitos establecidos en los literales b), c), d), e), f), o g) del artículo 617 del Estatuto Tributario, o se reincida en la expedición sin el cumplimiento de los requisitos señalados en los literales a), h), o i) del citado artículo.
+              | Por un término de tres (3) días, cuando no se expida factura o documento equivalente, estando obligado a ello, o se expida sin los requisitos establecidos en los literales b), c), d), e), f) o g) del artículo 617 del Estatuto Tributario, o se reincida en la expedición sin el cumplimiento de los requisitos señalados en los literales a), h), o i) del citado artículo.
             li.mb-4 
               .lista-ol--cuadro__vineta
                 span 2
@@ -104,7 +104,7 @@
           figure.d-none.d-xl-block
             img(src='@/assets/curso/tema1/img5.svg', alt='' style="max-width: 90px").m-auto
         .col-xl
-          p.mb-0 Las sanciones tributarias deben ser asumidas por el contribuyente infractor, ya sea persona jurídica o natural, y debe verse reflejado en el formulario del impuesto o en una resolución oficial de la administración de impuestos.
+          p.mb-0 Las sanciones tributarias deben ser asumidas por el contribuyente infractor, ya sea persona jurídica o natural, y deben verse reflejadas en el formulario del impuesto o en una resolución oficial de la administración de impuestos.
           
       .row.mb-5.align-items-center
         .col-xl-6
@@ -157,7 +157,7 @@
               .lista-ol--cuadro__vineta
                 span 7
               h4 Sanciones por facturación. Art. 652-1 del E.T.
-            p.mb-4 Quienes estando obligados a expedir facturas no lo hagan, podrán ser objeto de sanción de clausura o cierre del establecimiento de comercio, oficina o consultorio, o sitio donde se ejerza la actividad, profesión u oficio, de conformidad con lo dispuesto en los artículos 657 y 658 del Estatuto Tributario (Secretaría del Senado, 2020, 15 de octubre).
+            p.mb-4 Quienes, estando obligados a expedir facturas, no lo hagan, podrán ser objeto de sanción de clausura o cierre del establecimiento de comercio, oficina o consultorio, o sitio donde se ejerza la actividad, profesión u oficio, de conformidad con lo dispuesto en los artículos 657 y 658 del Estatuto Tributario (Secretaría del Senado, 2020, 15 de octubre).
             li.mb-2(data-aos="fade-right")
               .lista-ol--cuadro__vineta
                 span 8
@@ -248,7 +248,7 @@
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/tema1/img12.svg', alt='' style="max-width: 400px").m-auto
 
-      p.mb-3 Pero se debe recordar que la sanción siempre debe estar por encima de la sanción mínima, es decir de 10 UVT, que para el año 2020 sería de $356.000
+      p.mb-3 Pero se debe recordar que la sanción siempre debe estar por encima de la sanción mínima, es decir, de 10 UVT, que para el año 2020 sería de $356.000.
       p.mb-5 Si no hay impuesto a cargo, la sanción por cada mes o fracción de mes será igual al medio por ciento (0.5 %) de los ingresos brutos percibidos, sin exceder la cifra menor resultante de aplicar el cinco por ciento (5 %) a dichos ingresos, o del doble del saldo a favor si lo hubiere, o de la suma de 2.500 UVT cuando no existiere saldo a favor. Si no hay ingresos en el período, la sanción por cada mes o fracción de mes es del uno por ciento (1 %) del patrimonio líquido del año inmediatamente anterior, sin superar la cifra menor resultante de aplicar el diez por ciento (10 %) al mismo, o del doble del saldo a favor si lo hubiere, o de la suma de 2.500 UVT cuando no existiere saldo a favor.
 
       ol.lista-ol--cuadro.ajuste__espacio_1
@@ -267,7 +267,7 @@
             .col-xl
               <ul class="fa-ul">
                 <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor inicialmente declarado: $1.000.000</li>
-                <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor Final declarado: 	$5.000.000</li>
+                <li class="mb-3"><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor final declarado: 	$5.000.000</li>
                 <li><span class="fa-li"><i class="fas fa-chevron-right"></i></span>Valor de la corrección: 	$4.000.000</li>
               </ul>
         .col-xl-auto
