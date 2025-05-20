@@ -95,7 +95,7 @@
         .row.align-items-center
           .col-xl-6.ajuste__movil_3
             h4 RIT:
-            p.mb-0 Por este enlace se pueden validar los trámites de RIT, como actualización de datos básicos, inscripción, cambio o eliminación de las actividades correspondientes a los ingresos que obtiene el contribuyente asociado al CIIU.
+            p.mb-0 Por este <a href="https://www.haciendabogota.gov.co/es/tramites/certificacion-rit" target="_blank" class="anexo___1">enlace</a> se pueden validar los trámites de RIT, como actualización de datos básicos, inscripción, cambio o eliminación de las actividades correspondientes a los ingresos que obtiene el contribuyente asociado al CIIU.
           .col-lg-6.mb-4.mb-md-0
             figure.d-none.d-xl-block
               img(src='@/assets/curso/tema3/img8.png', alt="" style="max-width: 450px").m-auto
@@ -305,7 +305,7 @@
             h4.txt--purpura.mb-4 Declaración de Industria y Comercio, Avisos y Tableros
             p Las personas naturales o jurídicas del impuesto de industria y comercio que realicen cualquier actividad industrial, comercial o de servicios en la jurisdicción del Distrito Capital de Bogotá, directa o indirectamente, de forma permanente u ocasional, con o sin establecimiento de comercio, que le genere un incremento de ingreso y aumento de su patrimonio. Dicha declaración tiene una periodicidad en Bogotá D.C., dependiendo si el año anterior generó un impuesto a declarar por un valor igual o superior a 391 UVT; se presenta anual, y si es inferior a 391 UVT, es de forma bimestral; adicionalmente, la información debe presentarse aproximada a miles. La sanción mínima para este impuesto es de 7 UVT.
             p.mb-4 Con el fin de complementar la información del Impuesto de Industria y Comercio, Avisos y Tableros, se invita a explorar en el siguiente enlace:
-            a.anexo.mb-4.ajuste__link(href="https://www.shd.gov.co/shd/industria-y-comercio" target="_blank")
+            a.anexo.mb-4.ajuste__link(href="https://www.haciendabogota.gov.co/es/impuestos/impuesto-de-industria-y-comercio-ica" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

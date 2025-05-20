@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     p A continuación, se presenta una síntesis de la temática estudiada en el componente formativo. 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5.bgs.p-4.brad
         figure
           img(src="@/assets/curso/sintesis.svg", alt="Síntesis sobre la elaboración y presentación de declaraciones tributarias en Colombia que organiza la información en cinco categorías: tipos de impuestos (nacionales y territoriales), normatividad aplicable, sanciones posibles, plataformas digitales utilizadas y formularios requeridos.")
       .col-auto

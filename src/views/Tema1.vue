@@ -233,8 +233,7 @@
           .lista-ol--cuadro__vineta
             span 17
           h4 Sanción por extemporaneidad (S x E)
-      
-      p.mb-5 Teniendo en cuenta que para esta sanción se debe tomar la información por cada mes o fracción de mes de atraso por un 5 % y si fue con emplazamiento, la misma sanción se duplica, es decir, 10 %.
+        p.mb-5 Teniendo en cuenta que para esta sanción se debe tomar la información por cada mes o fracción de mes de atraso por un 5 % y si fue con emplazamiento, la misma sanción se duplica, es decir, 10 %.
 
       .row.mb-5.align-items-center
         .col-xl-1
