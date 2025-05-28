@@ -207,18 +207,18 @@
         p.mb-5.espacios__moviles El formulario 350 para declaración de retención en la fuente está compuesto por tres (3) partes principales. En esta presentación habrá un enfoque de la primera parte, que corresponde a la información del declarante, donde se encontrarán los siguientes numerales:
 
         .video.mb-5(data-aos="fade-up")
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/Nu0so84PvI8" title="Formulario 350 Retencion en la fuente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/q_3oC7sL9m8" title="Formulario 350 Retencion en la fuente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         p.mb-5 El formulario 300 para Declaración del Impuesto sobre las Ventas, está compuesto por tres (3) partes principales; en esta presentación habrá un énfasis en la primera parte, que corresponde a Información del Declarante, donde se encuentran los siguientes numerales:
 
         .video.mb-5(data-aos="fade-up")
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/rNQHO71sACo" title="Formulario 300 Declaracion de IVA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/zcv1VlrT0IM" title="Formulario 300: Declaracion de IVA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         p.mb-5 El formulario 310 para Declaración Impuesto Nacional al Consumo está dividido en tres (3) partes principales. En esta presentación habrá un énfasis en la primera parte, que corresponde a información del declarante, donde se encuentran los siguientes numerales:
 
         .video(data-aos="fade-right")
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/NLDzyouNUWE" title="Formulario 310 Declaración de impuesto nacional al consumo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/UMNZ4R0qr8c" title="Formulario 310: Declaración de impuesto nacional al consumo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          
 </template>
 
 <script>
